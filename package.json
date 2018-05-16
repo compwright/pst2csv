@@ -1,0 +1,20 @@
+{
+  "name": "pst2csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-write-stream": "^2.0.0",
+    "isemail": "^3.1.2",
+    "lodash": "^4.17.10",
+    "pst-extractor": "^1.2.2",
+    "unique-hash-stream": "^1.0.0",
+    "yargs": "^11.0.0"
+  }
+}
